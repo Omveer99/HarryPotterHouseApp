@@ -14,10 +14,12 @@ A SwiftUI-based iOS application showcasing Hogwarts houses and their characters 
 
 ## Screenshots 📱
 <div style="display: flex; justify-content: space-around;">
+   <img src="https://github.com/user-attachments/assets/b51af0b0-dda6-434c-b301-aed15e38c137" alt="Screenshot 4" width="200"/>
+    <img src="https://github.com/user-attachments/assets/16cba1ee-7835-43d8-a10c-7e3d1f237d4c" alt="Screenshot 3" width="200"/>
   <img src="https://github.com/user-attachments/assets/aebd3fab-13dc-4d80-b63c-cfb9b15c9927" alt="Screenshot 1" width="200"/>
   <img src="https://github.com/user-attachments/assets/77d1d19b-966e-4f9b-976d-1fd85ece6b68" alt="Screenshot 2" width="200"/>
-  <img src="https://github.com/user-attachments/assets/16cba1ee-7835-43d8-a10c-7e3d1f237d4c" alt="Screenshot 3" width="200"/>
-  <img src="https://github.com/user-attachments/assets/b51af0b0-dda6-434c-b301-aed15e38c137" alt="Screenshot 4" width="200"/>
+
+ 
 </div>
 
 ## Requirements 🛠
@@ -33,7 +35,7 @@ For any inquiries or feedback, please reach out to: omveerpanwar@example.com
 ## About
 This project aims to provide a simple and efficient way to generate and manage color codes for designers and developers.
 ### 🎥 Preview
-Watch the Video Preview [here](https://youtu.be/PzqfOXyV5Sw)
+Watch the Video Preview [here]([https://youtu.be/PzqfOXyV5Sw](https://youtu.be/69b6doVP6BM?si=b2aCQ8XiNlXCo0Ao))
 
 ## Contributors
 - [Omveer Panwar](#) - @Omveer99
