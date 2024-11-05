@@ -13,12 +13,12 @@ A SwiftUI-based iOS application showcasing Hogwarts houses and their characters 
 - SwiftUI Implementation
 
 ## Screenshots 📱
-
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-06 at 01 38 40](https://github.com/user-attachments/assets/aebd3fab-13dc-4d80-b63c-cfb9b15c9927)
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-06 at 01 38 30](https://github.com/user-attachments/assets/77d1d19b-966e-4f9b-976d-1fd85ece6b68)
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-06 at 01 38 24](https://github.com/user-attachments/assets/16cba1ee-7835-43d8-a10c-7e3d1f237d4c)
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-06 at 01 38 15](https://github.com/user-attachments/assets/b51af0b0-dda6-434c-b301-aed15e38c137)
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/aebd3fab-13dc-4d80-b63c-cfb9b15c9927" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/77d1d19b-966e-4f9b-976d-1fd85ece6b68" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/16cba1ee-7835-43d8-a10c-7e3d1f237d4c" alt="Screenshot 3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/b51af0b0-dda6-434c-b301-aed15e38c137" alt="Screenshot 4" width="200"/>
+</div>
 
 ## Requirements 🛠
 
